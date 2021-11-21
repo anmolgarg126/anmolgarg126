@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ag94570/ag94570/blob/master/devcard.svg" width="400" alt="Anmol Garg's Dev Card"/></a>
+</br>
+<img src="https://github.com/ag94570/ag94570/blob/master/devcard.svg" width="400" alt="Anmol Garg's Dev Card"/>
 
 
 <!--
