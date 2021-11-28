@@ -1,7 +1,7 @@
 ### Hi there 👋
 </br>
 
-## About me
+## About me (https://linktr.ee/anmol_garg)
 <img align="right" src="https://github.com/ag94570/ag94570/blob/master/devcard.svg" width="300" alt="Anmol Garg's Dev Card"/>
 
 
