@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >](https://www.buymeacoffee.com/anmolgarg)
 
 
-<p align="center"> © 2021 Anmol Garg, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2022 Anmol Garg, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://anmolgarg.info/
 </p>
